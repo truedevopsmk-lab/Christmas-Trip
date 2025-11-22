@@ -6,7 +6,7 @@
 
 # ✈️ **Trip Snapshot**
 
-**Booking code:** `8XTHPC`
+**Booking code:** `XXXXX`
 
 ### **Passengers**
 
