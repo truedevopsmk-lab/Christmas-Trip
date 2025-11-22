@@ -10,8 +10,8 @@
 
 ### **Passengers**
 
-* **Muthukumar Sambandam** — Ticket: `2202236467432-33`
-* **Shivani Kakhandki** — Ticket: `2202236467434-35`
+* **Muthu** 
+* **Shivani**
 
 ### **Outbound — BLR → BUD (21 Dec 2025)**
 
@@ -40,10 +40,6 @@ Arrives Bangalore **01:05 on 01 Jan 2026**
 * 1× **Carry-on** (8 kg)
 * 1× **Personal item**
 * 1× **Checked bag** (23 kg)
-
-**Fare:** INR **108,586** total (INR 54,293 per passenger)
-**Seats:** Not selected yet
-**API:** Submit during check-in (opens T–23 hours)
 
 ---
 
